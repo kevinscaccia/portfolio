@@ -16,11 +16,11 @@
 title: "Hello! I'm Kevin Scaccia"
 email: 'kevinscacciaml@gmail.com'
 description: "I'm a Machine Learning Engineer and Data Scientist from Brazil creating intelligent systems."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kevinscaccia.github.io/portfolio" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "portfolio" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'kevinscaccia'
 github_username: 'kevinscaccia'
-medium_username: 'dataml.com.ber'
+medium_username: 'dataml.com.br'
 
 # Build settings
 markdown: kramdown
