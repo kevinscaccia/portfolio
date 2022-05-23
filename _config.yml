@@ -16,7 +16,7 @@
 title: "Hello! I'm Kevin Scaccia"
 email: 'kevinscacciaml@gmail.com'
 description: "I'm a Machine Learning Engineer and Data Scientist from Brazil creating intelligent systems."
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'kevinscaccia'
 github_username: 'kevinscaccia'
@@ -93,6 +93,11 @@ footer_text: '© 2018 Kevin Scaccia'
 admin_name: 'Kevin Scaccia'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
+
+
+theme_skin: ceramic # blue turquoise green berry orange ceramic
+chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+
 
 #### Phantom Navigation menu
 enable_nav: true
