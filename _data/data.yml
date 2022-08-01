@@ -5,16 +5,17 @@ sidebar:
     # Profile information
     name: Kevin Scaccia
     tagline: Machine Learning Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_zoom.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: kevinscacciaml@gmail.com
+    phone: +55 12 99746-4624
+    city: São José dos Campos - Brazil
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: kevinscaccia
     xing: alandoe
-    github: sharu725
+    github: kevinscaccia
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -25,20 +26,17 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Portuguese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Piano
         link:
 
-      - item: Snowboarding
+      - item: Skateboarding
         link:
 
       - item: Cooking
@@ -47,12 +45,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I love to collaborate and work with others under the value of commitment, responsibility, and prompt action. 
+      I provide skills to ensure that my works are coherent, distinguished, and remarkable. 
+      _(or just a Machine Learning lover)._
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -77,45 +72,29 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Analyst & Machine Learning Engineer
+      time: Jul/2021 -Present
+      company: Accenture, Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Currently in a Brazilian document OCR (optical character recognition) project. 
+        Integrating models inside APIs, supporting models training decisions and optimizing data pipelines
+    - role: Machine Learning Engineer
+      time: Nov/2020 - Jun/2021
+      company: PhoneTrack, Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Involved as data scientist in development of a dedicated speech 
+        transcription system(ASR) for efficient keyword spotting(KWS) in
+        raw speech data, as well as speaker diarization modules.
+
+        - Head of a one-shot learning audio analysis project, using Siamese Convolutional Networks for voice biometrics 
+        with an arbitrary number of classes. Working in the research(data science), development and deployment stages.
+    - role: Data Scientist Intern
+      time: Mar/2020 - Nov/2020
+      company: Ball Corporation, Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Worked on demand planning and forecasting, applying machine learning techniques to forecast business time series.
 projects:
-    title: Projects
+    title: Projects I've been involved in 
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -167,23 +146,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python, Pandas, Numpy, Scikit-learn
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Tensorflow, Keras, Deep Learning
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Spark & Pyspark
+        level: 70%
+      - name: Google Cloud Platform(GCP)
+        level: 70%
+
+      - name: GIT, Docker, Airflow, CI/CD, Microsservices
+        level: 70%
+
+      - name: OKR, Scrum, Agile
+        level: 40%
+    
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
